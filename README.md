@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @captainSamRiddle-ofNarnia
 
-Hi, I am an aspiring Software Engineer currently working as a solutions engineer for a product based company ( not trying to be ungrateful or anything but ...) with over 3 years of experience living in a delusion that my work is making an impact in the world ( spoiler alert - it's not). So, here I am trying to provide a cheat sheet ( helping material wink wink ) for Leetcode questions, and on the side, do some weekend projects whenever I am not busy doing:
+Hi, I am an aspiring Software Engineer currently working as a solutions engineer for a product based company ( not trying to be ungrateful or anything but ...) with over 3 years of experience living in a delusion that my work is making an impact in the world ( spoiler alert - it's not). So, here I am trying to provide a cheat sheet ( helping material **wink wink** ) for Leetcode questions, and on the side, do some weekend projects whenever I am not busy doing:
 i) Contemplating my life choices 
 ii) Feeling bad for myself for not making as a Software Engineer till now
 And last but definitely not the least
